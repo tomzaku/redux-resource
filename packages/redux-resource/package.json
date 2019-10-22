@@ -1,5 +1,5 @@
 {
-  "name": "redux-resource-444",
+  "name": "redux-resource-support-unshift-list",
   "version": "3.1.1",
   "description": "Resource management for Redux.",
   "main": "lib/index.js",
@@ -74,5 +74,6 @@
   },
   "peerDependencies": {
     "redux": "3.x || 4.x"
-  }
+  },
+  "gitHead": "926e080a6e736cacbc4377102cbce0fbfcacc0a1"
 }
